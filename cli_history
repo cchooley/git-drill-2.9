@@ -1,0 +1,12 @@
+ 1707  ..
+ 1708  cd git-drill-2
+ 1709  mkdir site
+ 1710  cd site
+ 1711  touch index.html
+ 1712  mkdir pages
+ 1713  pico pages/about.html
+ 1714  mv pages/about.html about.html
+ 1715  ls
+ 1716  rm -rf pages
+ 1717  cd ..
+ 1718  rm -rf site
